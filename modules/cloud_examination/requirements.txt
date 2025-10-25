@@ -1,0 +1,9 @@
+flask==2.3.2              # Web framework for API development
+flask-jwt-extended==4.4.4  # JWT authentication for secure access
+firebase-admin==6.2.0      # Firebase integration for cloud storage
+requests==2.28.1           # HTTP requests for AQG/Progress Tracker integration
+opencv-python==4.8.0.76    # OpenCV for webcam image processing in proctoring
+pillow==10.0.0             # Image handling for base64 decoding in proctoring
+# Optional testing dependencies
+pytest==7.3.1              # Unit testing framework
+locust==2.14.0             # Load testing for concurrency
